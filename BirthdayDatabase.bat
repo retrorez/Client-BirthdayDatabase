@@ -1,0 +1,1 @@
+@py.exe C:\code\python\BirthdayDatabase.py
